@@ -1,0 +1,22 @@
+.showItem {
+  margin-bottom: 14px;
+}
+.showItem ul {
+  list-style: none;
+  font-size: 20px;
+}
+.showItem ul li {
+  margin-bottom: 8px;
+}
+.showItem input {
+  margin-right: 5px;
+}
+.showItem button {
+  margin-right: 5px;
+  background-color: #ff0081;
+  border: none;
+  padding: 2px;
+  border-radius: 3px;
+  color: #fff;
+  cursor: pointer;
+}

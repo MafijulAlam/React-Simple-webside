@@ -1,0 +1,16 @@
+.addItem {
+  margin-bottom: 10px;
+}
+.addItem input {
+  padding: 8px;
+  border: none;
+  border-radius: 4px 0px 0px 4px;
+  outline: none;
+}
+.addItem button {
+  padding: 8px;
+  border: none;
+  border-radius: 0px 4px 4px 0px;
+  background-color: #ffdddd;
+  cursor: pointer;
+}
